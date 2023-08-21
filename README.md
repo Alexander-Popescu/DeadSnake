@@ -39,5 +39,10 @@ Writing a file in DeadSnake is just as intuitive as the syntax. The file starts 
  \/
 ```
 
+As expected by the intuitive syntax, this program will produce the following output:
+```
+1
+```
+
 # Future Works
 The short term goals of DeadSnake are numerous, but the end goal remains rewriting C in DeadSnake. This will complete the cycle and forever softlock computational development.
