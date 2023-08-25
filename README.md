@@ -44,5 +44,8 @@ As expected by the intuitive syntax, this program will produce the following out
 1
 ```
 
+# Compilation
+So you have written your first program, how do you run it? As promised the compiler is written in python. However, this compiler must be run through two nested virtualbox virtual machines, as stated in our virtualbox (trademark) corporate sponsorship (not actually sponsored). Before compilation, the compiler will ask you if you are running it through these two nested instances. Lying here is strictly prohibited, and doing so will alert 4 minimum wage DeadSnake employees to give you a phone call and be mad at you for at least 15 minutes.
+
 # Future Works
 The short term goals of DeadSnake are numerous, but the end goal remains rewriting C in DeadSnake. This will complete the cycle and forever softlock computational development.
