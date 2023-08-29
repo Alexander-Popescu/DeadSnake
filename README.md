@@ -43,6 +43,8 @@ As expected by the intuitive syntax, this program will produce the following out
 ```
 1
 ```
+# Math 2 Integration
+DeadSnake is proud to be the first mainstream programming language with official Math 2 support. The Math2 library contains all the fundamental theorums of the study.
 
 # Compilation
 So you have written your first program, how do you run it? As promised the compiler is written in python. However, this compiler must be run through two nested virtualbox virtual machines, as stated in our virtualbox (trademark) corporate sponsorship (not actually sponsored). Before compilation, the compiler will ask you if you are running it through these two nested instances. Lying here is strictly prohibited, and doing so will alert 4 minimum wage DeadSnake employees to give you a phone call and be mad at you for at least 15 minutes.
