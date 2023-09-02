@@ -43,8 +43,11 @@ As expected by the intuitive syntax, this program will produce the following out
 ```
 1
 ```
-# Math 2 Integration
-DeadSnake is proud to be the first mainstream programming language with official Math 2 support. The Math2 library contains all the fundamental theorums of the study.
+# Math 2™ Integration
+DeadSnake is proud to be the first mainstream programming language with official Math 2 support. The Math2 library contains all the fundamental theorums of the study. However, Math 2™'s features sometimes have consequences that the avereage programmer might not be used to. Some frequently encountered issues are documented below:
+
+### Divisions by zero
+Due to Math 2™'s second central theorum, which states that 1 = -1 [(Proof)](https://cdn.discordapp.com/attachments/669299673185648656/1145874405621248040/image.png),Divisions by zero are tricky. If we add 1 to both sides of the equation, we get 0 = 2. I am sure you can see where we are going with this. Because 0 = 2, dividing by zero in DeadSnake will cause a catastrophic implosion of the computer. 
 
 # Compilation
 So you have written your first program, how do you run it? As promised the compiler is written in python. However, this compiler must be run through two nested virtualbox virtual machines, as stated in our virtualbox (trademark) corporate sponsorship (not actually sponsored). Before compilation, the compiler will ask you if you are running it through these two nested instances. Lying here is strictly prohibited, and doing so will alert 4 minimum wage DeadSnake employees to give you a phone call and be mad at you for at least 15 minutes.
