@@ -44,7 +44,7 @@ As expected by the intuitive syntax, this program will produce the following out
 1
 ```
 # Math 2™ Integration
-DeadSnake is proud to be the first mainstream programming language with official Math 2 support. The Math2 library contains all the fundamental theorums of the study. However, Math 2™'s features sometimes have consequences that the avereage programmer might not be used to. Some frequently encountered issues are documented below:
+DeadSnake is proud to be the first mainstream programming language with official Math 2™ support. The Math 2™ library contains all the fundamental theorums of the study. However, Math 2™'s features sometimes have consequences that the avereage programmer might not be used to. Some frequently encountered issues are documented below:
 
 ## Divisions by zero
 Due to Math 2™'s second central theorum, which states that 1 = -1 [(Proof)](https://cdn.discordapp.com/attachments/669299673185648656/1147677312867901661/image.png),Divisions by zero are tricky. If we add 1 to both sides of the equation, we get 2 = 0. I am sure you can see where we are going with this. Because 2 = 0, dividing by zero in DeadSnake will cause a catastrophic implosion of the computer. 
