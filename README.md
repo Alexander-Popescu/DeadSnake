@@ -43,6 +43,38 @@ As expected by the intuitive syntax, this program will produce the following out
 ```
 1
 ```
+
+## Loops in DeadSnake
+
+Loops are one of the most useful and often used tools in a programmer's arsenal. Luckily, deadsnake supports two types of loops. Once again, we can bear witness to our proprietary intuitive syntax system at play with our loop implementation. Loops are written by, you guessed it, writing loops in the dead snake's body. Take a look below for an example:
+```
+ Y
+/xx\
+\  /
+|X'loop:'|
+|P(X)|
+|05|  ⟋ ¯¯ \
+\ - /  / i \ |
+/ - \  \ i++ |
+|--|  ⟍ __ ⟋
+|--|
+\  /
+ \/
+```
+
+As expected by the intuitive syntax, this program will produce the following output:
+```
+loop:
+0
+1
+2
+3
+4
+```
+An artist's rendition is also pictured below for those who are unable to understand the intuitive syntax for some reason:
+
+*picture of snake with looped body tbd*
+
 # Math 2™ Integration
 DeadSnake is proud to be the first mainstream programming language with official Math 2™ support. The Math 2™ library contains all the fundamental theorums of the study. However, Math 2™'s features sometimes have consequences that the avereage programmer might not be used to. Some frequently encountered issues are documented below:
 
